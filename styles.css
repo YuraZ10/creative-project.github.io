@@ -96,5 +96,8 @@ h1:first-of-type {
         margin-bottom: 20px;
         width: 80%;
     }
+    #StickmanBoxes_TextAndButton{
+        flex-direction: column;
+        align-items: center;
+    }
 }
-
